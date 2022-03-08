@@ -1,0 +1,2 @@
+# TreinoJS
+ Meus estudos JS
